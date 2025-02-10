@@ -86,22 +86,22 @@ To submit your solution, follow these steps:
 
 1️⃣ Fork the Repository
 Fork the project repository from GitHub:
-🔗 IT Club Blog Management API
+🔗 test-network-level
 
 2️⃣ Clone Your Forked Repository
 bash
 
 Clone the forked repository to your local machine
-git clone https://github.com/YOUR_USERNAME/blog-management-api.git
+git clone https://github.com/YOUR_USERNAME/test-network-level.git
 
 3️⃣ Create a New Branch
-bash cd blog-management-api git checkout -b feature/your-feature-name
+bash cd test-network-level git checkout -b feature/your-feature-name
 
 4️⃣ Implement the Required Features
 Develop the required functionalities based on the given requirements.
 Commit your changes regularly with meaningful commit messages.
 5️⃣ Push Your Changes to GitHub
-bash git add . git commit -m "Implemented Blog Management API features" git push origin feature/your-feature-name
+bash git add . git commit -m "test-network-level" git push origin feature/your-feature-name
 
 6️⃣ Submit a Pull Request (PR)
 Go to your forked repository on GitHub.
