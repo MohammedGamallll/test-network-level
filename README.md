@@ -81,3 +81,30 @@ Requirements
 =   Verify connectivity between all devices.
 
 Note: Click Check Results to see your progress. Click Reset Activity to generate a new set of requirements. If you click on this before you complete the activity, all configurations will be lost.
+📌 Submission Instructions
+To submit your solution, follow these steps:
+
+1️⃣ Fork the Repository
+Fork the project repository from GitHub:
+🔗 IT Club Blog Management API
+
+2️⃣ Clone Your Forked Repository
+bash
+
+Clone the forked repository to your local machine
+git clone https://github.com/YOUR_USERNAME/blog-management-api.git
+
+3️⃣ Create a New Branch
+bash cd blog-management-api git checkout -b feature/your-feature-name
+
+4️⃣ Implement the Required Features
+Develop the required functionalities based on the given requirements.
+Commit your changes regularly with meaningful commit messages.
+5️⃣ Push Your Changes to GitHub
+bash git add . git commit -m "Implemented Blog Management API features" git push origin feature/your-feature-name
+
+6️⃣ Submit a Pull Request (PR)
+Go to your forked repository on GitHub.
+Click on Compare & pull request.
+Provide a brief description of your implementation.
+Submit the pull request.
